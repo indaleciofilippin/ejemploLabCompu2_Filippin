@@ -1,11 +1,11 @@
 # ejemploLabCompu2_Filippin
-Primera prueba de git
+> Primera prueba de git.
 
 ## Contact info:
--Developer: Indalecio **Filippin**
+> Developer: **Indalecio Filippin**.
 
 ## Project description:
-> Aprender a utilizar **GIT HUB**
+> Aprender a utilizar **GIT HUB**.
 
 ## Contact info:
 | Nombre | Apellido | Email |
